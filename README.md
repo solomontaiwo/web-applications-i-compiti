@@ -153,6 +153,9 @@ npm start           # Start the server
 npm run dev         # Start with nodemon (development)
 ```
 
+## 📸 Screenshots
+![Dashboard](./client/public/dashboard-teacher.png)  
+![Class Status](./client/public/class-status.png)
 
 ## 🤝 Contributing
 
