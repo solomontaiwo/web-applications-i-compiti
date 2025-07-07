@@ -34,8 +34,8 @@ A modern web application for managing educational assignments built with React a
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/solomontaiwo/web-applications-I-compiti.git
-   cd web-applications-I-compiti
+   git clone https://github.com/solomontaiwo/web-applications-i-compiti.git
+   cd web-applications-i-compiti
    ```
 
 2. **Install server dependencies**
